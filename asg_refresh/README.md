@@ -13,4 +13,10 @@ Make sure that the script file (refresh_asg.sh) is executable. If not, run the f
 
 `./refresh_asg.sh YOUR_ASG_NAME`\
 \
-Replace your_asg_name with the name of the Auto Scaling Group you wish to refresh.
+Replace your_asg_name with the name of the Auto Scaling Group you wish to refresh.\
+\
+Example output:\
+./refresh_asg.sh condorv2_CloudTest_6488d16f9d17d4e8a67c1832_jcc\
+In Progress...\
+In Progress...\
+The refresh status is: Successful
