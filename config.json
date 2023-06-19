@@ -1,0 +1,10 @@
+{
+    "AutoScalingGroupName": "CHANGEME",
+    "Preferences": {
+      "AutoRollback": false,
+      "MinHealthyPercentage": 100,
+      "ScaleInProtectedInstances": "Ignore",
+      "SkipMatching": true,
+      "StandbyInstances": "Ignore"
+    }
+}
